@@ -1,0 +1,16 @@
+C:\Users\marel\Desktop\Projects\MarioGame\bin\Debug\netcoreapp5.0\MarioGame.exe
+C:\Users\marel\Desktop\Projects\MarioGame\bin\Debug\netcoreapp5.0\MarioGame.deps.json
+C:\Users\marel\Desktop\Projects\MarioGame\bin\Debug\netcoreapp5.0\MarioGame.runtimeconfig.json
+C:\Users\marel\Desktop\Projects\MarioGame\bin\Debug\netcoreapp5.0\MarioGame.runtimeconfig.dev.json
+C:\Users\marel\Desktop\Projects\MarioGame\bin\Debug\netcoreapp5.0\MarioGame.dll
+C:\Users\marel\Desktop\Projects\MarioGame\bin\Debug\netcoreapp5.0\ref\MarioGame.dll
+C:\Users\marel\Desktop\Projects\MarioGame\bin\Debug\netcoreapp5.0\MarioGame.pdb
+C:\Users\marel\Desktop\Projects\MarioGame\obj\Debug\netcoreapp5.0\MarioGame.csproj.AssemblyReference.cache
+C:\Users\marel\Desktop\Projects\MarioGame\obj\Debug\netcoreapp5.0\MarioGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marel\Desktop\Projects\MarioGame\obj\Debug\netcoreapp5.0\MarioGame.AssemblyInfoInputs.cache
+C:\Users\marel\Desktop\Projects\MarioGame\obj\Debug\netcoreapp5.0\MarioGame.AssemblyInfo.cs
+C:\Users\marel\Desktop\Projects\MarioGame\obj\Debug\netcoreapp5.0\MarioGame.csproj.CoreCompileInputs.cache
+C:\Users\marel\Desktop\Projects\MarioGame\obj\Debug\netcoreapp5.0\MarioGame.dll
+C:\Users\marel\Desktop\Projects\MarioGame\obj\Debug\netcoreapp5.0\ref\MarioGame.dll
+C:\Users\marel\Desktop\Projects\MarioGame\obj\Debug\netcoreapp5.0\MarioGame.pdb
+C:\Users\marel\Desktop\Projects\MarioGame\obj\Debug\netcoreapp5.0\MarioGame.genruntimeconfig.cache
